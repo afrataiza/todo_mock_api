@@ -1,0 +1,10 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "content": "Learn Typescript",
+            "completed": false,
+            "createdAt": "2023-12-30 10:12:25"
+        }
+    ]
+}
